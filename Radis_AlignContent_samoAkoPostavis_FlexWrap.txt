@@ -1,1 +1,2 @@
 PROCITAJ NASLOV FAJLA
+*(znaci ne moze da bude kao po defaultu na no-wrap vrednosti)
