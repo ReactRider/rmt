@@ -1,0 +1,29 @@
+.container {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.item {
+    border: 1px solid #000;
+    padding: 20px;
+    margin: 5px;   
+}
+
+.item1 {
+    display: inline;
+    background-color: lightblue;
+}
+
+.item2 {
+    display: block;
+    background-color: lightgreen;
+}
+
+.item3 {
+    display: inline-block;
+    background-color: lightyellow;
+}
+
+.item4 {
+    display: none;
+}
